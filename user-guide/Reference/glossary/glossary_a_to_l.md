@@ -138,6 +138,7 @@ uid: glossary_a_to_l
 | DataMiner Taskbar Utility | System tray application on a DataMiner Agent that can be used to manage the Agent.<br>See [DataMiner Taskbar Utility](xref:DataMiner_Taskbar_Utility). |
 | DB | Database. |
 | DBS | Direct Broadcast Satellite. Broadcasting transmissions where end users receive signals directly from geostationary satellites. |
+| DCE | DataMiner Community Edition. See [Dataminer Community Edition](xref:Pricing_Commercial_Models#dataminer-community-edition) |
 | DCF | DataMiner Connectivity Framework. Framework used to manage element connectivity, e.g. to configure and visualize signal paths within an infrastructure.<br>See [DataMiner Connectivity Framework](xref:About_the_DataMiner_Connectivity_Framework). |
 | DCL | DataMiner Class Library. |
 | DCP | DataMiner Cloud Platform. Online platform with information related to the DataMiner software and DataMiner projects. Includes software downloads, release notes, etc. See [dataminer.services](xref:AboutCloudPlatform). |
